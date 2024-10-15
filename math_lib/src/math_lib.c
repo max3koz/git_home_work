@@ -12,3 +12,8 @@ int func2() {
 int func3() {
     return 0;
 }
+
+int func4() {
+    return 0;
+}
+

@@ -6,3 +6,5 @@ int func2();
 
 int func3();
 
+int func4();
+
